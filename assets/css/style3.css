@@ -1,0 +1,117 @@
+.selec{
+    
+    width: 100px;
+    color: rgb(50, 150, 138);
+    background-color: rgba(59, 138, 121, 0);
+    border-radius: 10px; 
+    box-shadow: 10px 8px 10px rgba(15, 1, 1, 0.926); 
+    font-size: x-large;
+    
+   
+    
+}
+
+.color{
+    margin-top: 10%;
+    width: 30%;
+    height: 500px;
+    color: black;
+    background-color: rgba(6, 6, 87, 0.769);
+}
+
+.sty{
+    border-radius: 30px;
+    box-shadow: 1px 5px 100px rgb(50, 150, 138); 
+    padding: 20px;
+}
+
+.img1{
+   height: 50%;
+    border-radius: 30px; 
+    box-shadow: 1px 5px 100px  rgb(50, 150, 138); 
+
+}
+
+.just{
+display: flex;
+justify-content: center;
+
+
+}
+
+
+.tut{
+
+    margin-top: 10%;
+}
+.container{
+    display: flex;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    width: 90%;
+    height: 15%;
+    border-radius: 30px; 
+    box-shadow: 8px 2px 6px rgba(0, 0, 0, 0.516); 
+    background-color: rgb(50, 150, 138);
+    text-align: center;
+    color: white;
+}
+
+.but{
+    margin-top: 50px;
+    margin-left: 25%;
+    font-size: x-large;
+    width: 40%;
+    height: 40%;
+    color:  white;
+    background-color: rgb(50, 150, 138);
+    border-radius: 30px; 
+    box-shadow: 8px 2px 6px rgba(0, 0, 0, 0.516); 
+    text-align: center;
+}
+
+.alin{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.mensaje{
+
+    display: flex;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    width: 90%;
+    height: 15%;
+    border-radius: 30px; 
+    box-shadow: 8px 2px 6px rgba(0, 0, 0, 0.516); 
+    background-color: rgb(50, 150, 138);
+    text-align: center;
+    color: white;
+
+}
+
+
+.mensaje2{
+
+    display: flex;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    width: 90%;
+    height: 15%;
+    border-radius: 30px; 
+    box-shadow: 8px 2px 6px rgba(0, 0, 0, 0.516); 
+    background-color: rgb(50, 150, 138);
+    text-align: center;
+    color: white;
+    background-color: red;
+    
+    }

@@ -1,0 +1,65 @@
+.conteiner{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+align-items: center;
+align-content: center;
+margin-top: 20%;
+}
+
+.title1{
+    text-align: center;
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.conteiner2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+   margin-top: 50px;
+    }
+
+.card{
+ display: flex;
+ flex-direction: column;
+}
+
+.input2{
+    text-align: center;
+    width: 50%;
+    margin-left: 90px;
+}
+
+.but{
+width: 200px;
+color: white;
+background-color: rgb(96, 96, 156);
+}
+
+
+.mensaje{
+    width: 20%;
+    
+    background-color: green;
+    color:white;
+    text-align: center;
+    margin-left: 40%;
+
+
+}
+
+.mensaje2{
+    width: 20%;
+    
+    background-color: rgb(241, 14, 14);
+    color:white;
+    text-align: center;
+    margin-left: 40%;
+
+
+}
